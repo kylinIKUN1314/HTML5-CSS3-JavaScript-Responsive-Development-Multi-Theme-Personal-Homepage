@@ -7,6 +7,9 @@ https://xn--kwrx1d.netcpu.top/
 
 坤哥个人博客：https://xnbjk.blog7788.xyz/
 
+#【技术交流】：
+https://qun.qq.com/universal-share/share?ac=1&authKey=aOr0yV88oNxyIEeuyMYlgsHDxqigKWlrVBLqpLFMf%2B%2FeudvTFDkuIyYlY1w%2Bz2wR&busi_data=eyJncm91cENvZGUiOiIxMDcwOTM4OTAwIiwidG9rZW4iOiIrT1ZtVFI1WkNONzY2U0JZb0hQRmRGNFc1SzlhcDVqKzFTbjZaNHd0bTMrYVpnWGROMXIxeDBoUWtKcHFYUithIiwidWluIjoiMTY4NTU2Mzg3NyJ9&data=zOBUmEJyaBuWJcrm_Zv39MmJgNUgYSoDdXG3yfnDy9nK9nGefFUgSZOk0rfLMgXRLVf2iu3q4q96kBbSmRjytg&svctype=4&tempid=h5_group_info
+
 #演示图片
 ![IKUN](https://github.com/user-attachments/assets/307fa93c-01a3-41b7-b14c-98f939b45b52)
 
